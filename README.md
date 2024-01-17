@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sudhanshu Raj Tiwari
 - 👀 I’m interested in Cloud Technologies
 - 🌱 I’m currently learning Coding in C++ language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sudhanshu-raj-tiwari-16a9791a5/
 
 <!---
